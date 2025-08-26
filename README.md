@@ -1,11 +1,11 @@
 # AI-Prediction-System-for-Logistics-Optimization
 
-# Проект прогнозирования материалов для строительных проектов
+# Designing Material Forecasting for Construction Projects
 
-## Описание
-Данный проект включает модели для прогнозирования типа и количества материалов, необходимых для строительных проектов, а также стоимости.
+## Description
+This project includes models for forecasting the type and quantity of materials needed for construction projects, as well as the cost.
 
-## Как запустить
-1. Установите зависимости:
-```bash
+## How to run
+1. Install as dependencies:
+``` bash
 pip install -r requirements.txt
